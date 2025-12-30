@@ -1,0 +1,13 @@
+{
+  "name": "n8n-render",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "n8n start --tunnel"
+  },
+  "dependencies": {
+    "n8n": "^0.256.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
